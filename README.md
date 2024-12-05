@@ -1,1 +1,0 @@
-# Mpox-Skin-Lesion-Analysis
